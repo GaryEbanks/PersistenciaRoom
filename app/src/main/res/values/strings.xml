@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PersistenciaROOM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nuevo_usuario">Nuevo Usuario</string>
+    <string name="guardar">Guardar</string>
+    <string name="_0">0</string>
+    <string name="nombre_del_usuario">Nombre del usuario</string>
+    <string name="nombres">Nombres</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="eliminar">Eliminar</string>
+</resources>
